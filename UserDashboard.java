@@ -204,7 +204,7 @@ public class UserDashboard implements ActionListener{
 		} 
 		else if (command.equals("View Favourites")) 
 		{
-	        System.out.println("Favourites button clicked");
+	        System.out.println("Favourites button  has clicked");
 	        new Favourites(user);
 	        frame.dispose();
 	    } 
